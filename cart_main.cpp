@@ -25,7 +25,7 @@ Product* chooseProduct(){
     cout << productList;
 
     cout << "-------------------\n";
-    cout << "Enter the first letter to select : ";
+    cout << "Enter item short name : ";
     string choice;
     cin >> choice;
     
@@ -86,8 +86,8 @@ Product* chooseProductToRemove(Cart &cart) {
     }
     
     cout << "-------------------\n";
-    cout << "Enter the first letter to select : ";
-    
+    cout << "Enter item short name : ";
+
     string choice;
     cin >> choice;
     
