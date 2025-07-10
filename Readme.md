@@ -61,16 +61,76 @@ g++ cart_main.cpp -o cart_main
 ```
 Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout
 a
-Available Products :
+Available Products :    
 apple : Rs 26
 guava : Rs 36
-...
-Enter item short name: a
+mango : Rs 46
+strawberry : Rs 29      
+banana : Rs 16
+pineapple : Rs 25       
+-------------------     
+Enter item short name : a
 Added to the Cart : apple : Rs 26
 
-Select an action - (v)iew cart
+Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout 
+a
+Available Products :    
+apple : Rs 26
+guava : Rs 36
+mango : Rs 46
+strawberry : Rs 29      
+banana : Rs 16
+pineapple : Rs 25       
+-------------------     
+Enter item short name : a
+Added to the Cart : apple : Rs 26
+
+Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout 
+a
+Available Products : 
+apple : Rs 26        
+guava : Rs 36        
+mango : Rs 46        
+strawberry : Rs 29
+banana : Rs 16
+pineapple : Rs 25
+-------------------
+Enter item short name : m
+Added to the Cart : mango : Rs 46
+
+Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout
+r
+Items in your cart:
+-------------------
+2 x apple Rs. 52
+1 x mango Rs. 46
+-------------------
+Enter item short name : a
+Removed from the Cart : apple : Rs 26
+
+Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout
+v
+------------------------
+1 x mango Rs. 46
 1 x apple Rs. 26
-Total Amount : Rs. 26
+
+Total Amount : Rs. 72
+------------------------
+Select an action - (a)dd item, (r)emove item, (v)iew cart, (c)heckout
+c
+------------------------
+1 x mango Rs. 46
+1 x apple Rs. 26
+
+Total Amount : Rs. 72
+
+------------------------
+Pay in Cash : 80
+
+Change 8
+
+Thank you for shopping with us
+---------------------------------
 ```
 
 ---
