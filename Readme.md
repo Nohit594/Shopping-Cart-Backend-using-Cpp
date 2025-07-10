@@ -160,5 +160,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 **Nohit Singh Chouhan**
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/nohit594) or check out my [GitHub](https://github.com/Nohit594)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nohit-singh-13b3b5195/) or check out my [GitHub](https://github.com/Nohit594)!
 
